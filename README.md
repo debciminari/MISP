@@ -2,8 +2,7 @@
 
 MISP (Multilingual Idiomatic Sentence Paraphrasing) is a system designed to generate idiomatic paraphrases in three languages: Portuguese (PT), French (FR), and Romanian (RO).
 
-For Portuguese, a synthetic paraphrase dataset was automatically generated using the Apertus-4B model, based on the Portuguese subset of the AStitchInglanguemodels dataset (citation needed).
-A Qwen model was then finetuned on this synthetic data.
+For Portuguese, a synthetic paraphrase dataset was automatically generated using the Apertus-8B-Instruct-2509 model, based on the Portuguese subset of the AStitchInLanguageModels dataset (Tayaar-Madabushi, 2021). Finally, Qwen3-4B-Instruct-2507 model was finetuned on this synthetic data.
 
 The resulting finetuned model was used for inference in Portuguese, and transferred directly to French and Romanian.
 
