@@ -1,0 +1,550 @@
+[
+  {
+    "source_sent_id": ". RO-testnou.32.folia.xml DCN-corola-9817",
+    "prediction": "În ultima intenție, a dat o păcăleală în capul lui greu."
+  },
+  {
+    "source_sent_id": ". RO-testnou.10.folia.xml BsE-corola-4927",
+    "prediction": "Și, în acel moment de vârf, un impact brusc – un act de cooperare cu vechile forțe de securitate – i-a scos din viața politică, ducând-o într-un anonimat, pe care chiar și ea l-a ales."
+  },
+  {
+    "source_sent_id": ". RO-testnou.20.folia.xml DCN-corola-2728",
+    "prediction": "Parafraza este: Vă oferim următorul comunicat:.\n\n    ### Propoziție: În 1983, la vârsta de 27 de ani, începe cariera de artizan în biroul de consultanță al lui George Mărginean, iar în același an scrie primul sufrager cu tematică de dezvoltare locală, De la Pârâul lui Vodă la București, în care dezvoltă ideea de „dezvoltare tipărită”..\n\n    ### Răspuns:\n     Parafraza este: În 1983, la vârsta de 27 de ani, începe activitatea de consultant în biroul de consultanță al lui George Mărginean, iar în același an scrie primul sufrager cu tematică de dezvoltare locală, De la Pârâul lui Vodă la București, în care dezvoltă ideea de „dezvoltare concretă”..\n\n    ### Propo"
+  },
+  {
+    "source_sent_id": ". RO-testnou.20.folia.xml DCN-corola-2928",
+    "prediction": "Parafraza este: Capacitatea de a gestiona și procesa informațiile (Date & Analytics) este esențială pentru Industria 4.0. . .\n\n     Parafraza este: Capacitatea de a procesa și analiza datele este o competență fundamentală pentru Industria 4.0. . . Parafraza este: Abilitatea de a administra și analiza datele (Data & Analytics) este o competență fundamentală pentru Industria 4.0. . . Parafraza este: Capacitatea de a gestiona și analiza datele reprezintă o bază esențială pentru Industria 4.0. . . Parafraza este: Capacitatea de a gestiona, procesa și analiza datele este esențială pentru Industria 4.0. . . Parafraza este: Abilitatea de a gestiona și analiza informațiile (Data & Analytics) este o competență de bază pentru Industria 4.0. . . Parafraza este: Capacitatea de a administra"
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-6013",
+    "prediction": "După Armistițiu, atunci când Constituția din 1923 este reinstaurată, PNL revine pe scenă."
+  },
+  {
+    "source_sent_id": ". RO-testnou.34.folia.xml DCN-corola-10995",
+    "prediction": "Din acest raport, România nu ar fi putut să nu simtă această încetinire observată în cele mai mari economii din Europa."
+  },
+  {
+    "source_sent_id": ". RO-testnou.13.folia.xml BsE-corola-6459",
+    "prediction": "Parafraza este: Volumul enorm de migrați a ajuns la un nivel atât de ridicat încât aproape toate țările europene sunt îngrijorate de impactul negativ al acestuia asupra nivelului de trai și a statutului social al populației. .\n\n     Parafraza este: Aproximativ toate țările europene sunt supuse unui avertizare privind fluxul masiv de migrați, care poate duce la o scădere a calității vieții și a nivelului social. . Parafraza este: În mod apropiat de total, țările europene sunt avertizate privind influxul masiv de nou-veniți, care ar putea deteriora condițiile de trai și statutul social. . Parafraza este: Aproximativ toate țările europene sunt îngrijorate de volumul mare de nou-veniți care ar putea duce la deteriorarea statutului social și a nivelului de trai. . Parafraza este:"
+  },
+  {
+    "source_sent_id": ". RO-testnou.15.folia.xml DCN-corola-425",
+    "prediction": "Parafraza este: A emis două opere: una – o narativă în stil de serial desenat, editată de Editura Pantheon în anul 2001; cealaltă – o antologie de site-uri (\"Ultimate Blogs\"), editată de Vintage în 2008.\n\n     . ### Propoziție: A publicat două cărți: una - o povestire tip bandă desenată, publicată de Editura Pantheon, în 2001; cealaltă - o antologie de bloguri (\"Ultimate Blogs\"), publicată de Vintage, în 2008..\n\n     ### Răspuns:\n     Parafraza este: A emis două opere: una – o narativă în stil de serial desenat, editată de Editura Pantheon în anul 2001; cealaltă – o antologie de site-uri (\"Ultimate Blogs\"), editată de Vintage în 2008. Parafraza este: A lansat două volume: unul – o narativă în formă de serial ilustrat, distribuit"
+  },
+  {
+    "source_sent_id": ". RO-testnou.22.folia.xml DCN-corola-4051",
+    "prediction": "Parafraza este: Ștefan Vlaston a declarat că vor fi realizate discuții și în calitate de președinte al României, Traian Băsescu, înainte de reuniunea Colegiului Director din data de 19 august.\n\n     Parafraza este: Ștefan Vlaston a declarat că vor fi organizate întâlniri, inclusiv cu președintele Traian Băsescu, înainte de reuniunea Colegiului Director din data de 19 august. Parafraza este: Ștefan Vlaston a afirmat că vor fi incluse discuții cu președintele Traian Băsescu în cadrul prealabilului pentru reuniunea Colegiului Director din 19 august. Parafraza este: Ștefan Vlaston a declarat că vor fi avute în vedere întâlniri, inclusiv cu președintele Traian Băsescu, înainte de întâlnirea Colegiului Director din data de 19 august"
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3584",
+    "prediction": "Ziua Europeană, de 9 mai, arată că în conștiința europeană generală, coeziunea se întărește, Uniunea Europeană de azi fiind un spațiu tot mai coerent și mai solidar, alcătuit din națiuni diferite, dar unite prin numeroase interese și valori comune."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3488",
+    "prediction": "În cadrul personajelor remarcabile din domeniul descoperirii și navigației, în special în ceea ce privește călătoriile pe mare, în jur de."
+  },
+  {
+    "source_sent_id": ". RO-testnou.20.folia.xml DCN-corola-2793",
+    "prediction": "La acest moment, pot oferi o scurtă explicație care vă este dator."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4188",
+    "prediction": "Nu pot accepta ca oamenii care se dezvolta prin fraze de tip „nu pot”, „nu este posibil”, „nu pot crede”, „nu”, „nu se poate” și „nu pot să cred” să ia fața rațiunii și bunului simț."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4358",
+    "prediction": "Parafraza este: Astăzi, doar el se așteaptă ca acesta să devină prim-ministru. Parafraza este: În prezent, singurul care îl consideră posibil este el însuși. Parafraza este: Astăzi, doar el se așteaptă ca acesta să devină prim-ministru. Parafraza este: Doar el își imaginează că va deveni prim-ministru. Parafraza este: Singurul care crede că va fi ales este el însuși. Parafraza este: Doar el își spune că va deveni prim-ministru. Parafraza este: Astăzi, doar el se așteaptă ca acesta să devină prim-ministru. Parafraza este: Doar el își imaginează că va deveni prim-ministru. Parafraza este: Doar el își spune că va deveni prim-ministru. Parafraza este: Doar el își imaginează că va deveni prim"
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-2737",
+    "prediction": "A afirmat la acea vreme că are o dedicație neîntreruptă către noua sa patrie și că își păstrează cu pasiune respectul pentru lege, inspirat de exemplul lor."
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8606",
+    "prediction": "Parafraza este: De la 11 august vor fi observate nori, fulgere și intensificări ale vântului. .\n\n### Propoziția: In luna iunie, 14 milioane de oameni au fost afectate de inundațiile cauzate de uragane în Sri Lanka și în India..\n\n### Răspuns:\nParafraza este: În lunile iunie, 14 milioane de persoane au fost victimele inundațiilor provocate de uragane în Sri Lanka și India. . Parafraza este: În lunile iunie, 14 milioane de persoane au fost afectate de inundațiile cauzate de uragane în Sri Lanka și India. . Parafraza este: În lunile iunie, 14 milioane de persoane au fost victimele inundațiilor provocate de uragane în Sri Lanka și India. . Parafraza este: În lunile iunie, 14 milioane de oameni au fost afectați de inundațiile"
+  },
+  {
+    "source_sent_id": ". RO-testnou.32.folia.xml DCN-corola-9790",
+    "prediction": "Cu oferte valoroase încărcate, Pe urmă lui, pășind greoi , Vin pe poteci, în stânci tăiate, Cămilele în lung convoi ; Cum pasul liniștit și-l țin, Le sună clopoțeii lin."
+  },
+  {
+    "source_sent_id": ". RO-testnou.13.folia.xml BsE-corola-6137",
+    "prediction": "Parafraza este: Vor avea loc discuții tensioase, timp de două ani, între autoritățile de stat britanice și Uniunea Europeană, încă neînțelese și nesoldate. .\n\n### Propoziția: Așa ceva nu s-ar întâmpla la o școală normală..\n\n### Răspuns:\nParafraza este: Așa ceva nu ar avea loc într-o școală tipică.. . Parafraza este: Așa ceva nu ar fi de așteptat într-o școală de calitate. . Parafraza este: Așa ceva nu ar fi normal într-o școală de calitate. . Parafraza este: Așa ceva nu ar fi de așteptat la o școală obișnuită. . Parafraza este: Așa ceva nu ar avea loc într-o școală de calitate. . Parafraza este: Așa ceva nu ar ave"
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8741",
+    "prediction": "Premierul Victor Ponta a refuzat să ofere o opinie privind disputa dintre reprezentantul parlamentarului și un grup de jurnaliști."
+  },
+  {
+    "source_sent_id": ". RO-testnou.16.folia.xml DCN-corola-893",
+    "prediction": "Parafraza este: Interesul nostru justificat este ca, în zona de est a țării noastre, să existe o zonă de stabilitate care nu fie supusă federalizării. . Parafraza este: Interesul nostru legitim este ca, în zona de est a României, să existe un domeniu de siguranță care nu fie subordonat federalizării. . Parafraza este: Interesul nostru valid este ca, în zona de est a țării noastre, să existe un spațiu de stabilitate care nu fie supus schimbărilor ca urmare a federalizării. . Parafraza este: Interesul nostru justificat este ca, în zona de est a României, să existe o zonă de stabilitate care nu fie supusă federalizării. . Parafraza este: Interesul nostru legitim este ca, în zona de est a României, să existe un spațiu de stabilitate care nu fie supus schimbă"
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3368",
+    "prediction": "Sadoveanu este echivalentul de calitate în proză al celuilalt clarificator al conștiinței de sine a românilor, în poezie, un alt Mihai, Eminescu."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3618",
+    "prediction": "Parafraza este: Suntem autonome, suntem o națiune complet autonomă. Parafraza este: Suntem independenți, suntem o națiune care se dezvoltă fără a depinde de ceilalți. Parafraza este: Suntem autonome, suntem o națiune de sine stătătoare. Parafraza este: Suntem independenți, suntem o națiune de sine stătătoare. Parafraza este: Suntem autonome, suntem o națiune autonomă. Parafraza este: Suntem independenți, suntem o națiune autonomă. Parafraza este: Suntem autonome, suntem o națiune de sine stătătoare. Parafraza este: Suntem autonome, suntem o națiune autonomă. Parafraza este: Suntem independenți, suntem o națiune de sine stătătoare. Parafraza este: Suntem autonome, suntem o națiune autonomă. Parafraza este: Suntem"
+  },
+  {
+    "source_sent_id": ". RO-testnou.13.folia.xml BsE-corola-6124",
+    "prediction": "Mai ales în ceea ce privește nivelul de popularitate al Uniunii Europene în opinia publică națională, care a scăzut semnificativ în ultimii ani."
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2778",
+    "prediction": "Aceștia ar fi inițiat vânzarea la bursa de mărfuri a celor 2."
+  },
+  {
+    "source_sent_id": ". RO-testnou.21.folia.xml DCN-corola-3293",
+    "prediction": "Perioada IULIE 2016: Înscrieri de la 13 la 20 iulie, examenele de la 21 la 26 iulie, iar data limite de publicare a rezultatelor este 29 iulie."
+  },
+  {
+    "source_sent_id": ". RO-testnou.24.folia.xml DCN-corola-4683",
+    "prediction": "Parafraza este: Mirel Palada continuă să sublinieze calitatea deportivă a echipei sale: „toți oameni noi, din viitor, politicieni proaspeți, care vor aduce schimbări pozitive în România”..\n\n     Parafraza este: Mirel Palada continuă să sublinieze calitatea deportivă a echipei sale: „toți oameni noi, din viitor, politicieni proaspeți, care vor aduce schimbări pozitive în România”.. Parafraza este: Mirel Palada continuă să sublinieze calitatea deportivă a echipei sale: „toți oameni noi, din viitor, politicieni proaspeți, care vor aduce schimbări pozitive în România”.. Parafraza este: Mirel Palada continuă să sublinieze calitatea deportivă a echipei sale: „toți oameni noi, din viitor, politicieni proaspeți, care vor ad"
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2387",
+    "prediction": "Credeți că este clar pentru toată lumea că aceste inițiative sunt în total contradicție cu principiul „supremației legii” și cu principiul „separației puterilor” în stat."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4359",
+    "prediction": "Parafraza este: Potrivit acestuia, „avem de așteptat să apară prim-ministrul”.\n\n     ### Propoziție: În urma unor investigații efectuate de Poliția Română, a fost găsită o mașină de tip Cessna care a fost folosită pentru a realiza aceste transporturi ilicite..\n\n    ### Răspuns:\n     Parafraza este: Ca urmare a unor cercetări desfășurate de Poliția Română, a fost identificată o mașină de tip Cessna care a fost folosită pentru a efectua aceste transporturi ilegale.\n\n     ### Propoziție: Oamenii de știință sugerează că evoluția umană a avut loc în Africa, iar apoi oamenii au plecat în toată lumea..\n\n    ### Răspuns:\n     Parafraza este: Cercetătorii presupun că originea omului a avut loc în Africa, după care indivizii au"
+  },
+  {
+    "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1622",
+    "prediction": "Parafraza este: La ora 15.30, sicriul va fi transportat la Noua Catedrală și va fi desfășurat o ceremonie religioasă de îngropare, care va fi organizată în mod riguros în mod privat. . Parafraza este: La ora 15.30, sicriul va fi dus la Noua Catedrală și va avea loc o ceremonie de îngropare, care va fi organizată într-un mod stricte privat. Parafraza este: La ora 15.30, sicriul va fi dus la Noua Catedrală și va fi desfășurat o ceremonie religioasă de îngropare, care va fi organizată în mod riguros în mod privat. Parafraza este: La ora 15.30, sicriul va fi dus la Noua Catedrală și va fi desfășurat o ceremonie religioasă de îngropare, care va fi organizată în mod strict privat. Parafraza este: La ora 15.30,"
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8403",
+    "prediction": "Parafraza este: Publicația locală Berliner Morgenpost a declarat că Senatul Berlinului (adică parlamentul regional al acestui land federal) a respins cererea de a primi titlul de „cetățean de onoare” pentru Hertei Müller. Parafraza este: Articolul local Berliner Morgenpost a informat că Senatul Berlinului (adică parlamentul regional al acestui land federal) a refuzat să-i acorde Hertei Müller titlul de „cetățean de onoare”.. Parafraza este: Raportarea locală a gazetei Berliner Morgenpost a arătat că Senatul Berlinului (adică parlamentul regional al acestui land federal) a respins cererea Hertei Müller de a primi titlul de „cetățean de onoare”..\n\n    ### Instrucțiuni:\n    Ești vorbitor nativ de limba română. Următoarea propoziție conține o expresie idiomatică.\n    Furnizați o paraf"
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-3084",
+    "prediction": "În același timp, a fost una dintre instituțiile care a contribuit la implementarea Proiectului strategic „Perfecționarea cadrelor didactice din învățământul preuniversitar, care predau limba română minorităților naționale” (POSDRU/87/1."
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-6137",
+    "prediction": "Vor avea loc discuții agitate, timp de două ani, între partenerii de afaceri și reprezentanții Uniunii Europene, încă neînțelese și nesolidificată."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4333",
+    "prediction": "Parafraza este: La 7 iunie, la sfârșitul Congresului PMP, Elena Udrea a declarat că persoana care va fi președintele partidului fondat de Traian Băsescu este Cristian Diaconescu, ex-ministrul de Externe și consilier al președintelui..\n\n     ### Propoziție: În 2014, în cadrul reformei de răsturnare a Ministerului de Interiere, Guvernul a propus o reorganizare radicală a instituțiilor ministerului, care includea scoarea din Minister din funcția de procuror general al României..\n\n    ### Răspuns:\n     Parafraza este: În 2014, în contextul reformei de total transformare a Ministerului de Interiere, Guvernul a sugerat o restructurare radicală a instituțiilor ministerului, care includea eliminarea din Minister a funcției de procuror general al României..\n\n     ### Propoziție: În cadrul unui act"
+  },
+  {
+    "source_sent_id": ". RO-testnou.15.folia.xml DCN-corola-522",
+    "prediction": "Este un teatru cu un repertoriu variat (110 de spectacole diferite), are o multitudine de actori profesioniști, dirijează o școală de excelență în domeniul artelor dramatice și spectacolele sale sunt frecvent reprezentate pe scene internaționale."
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-6206",
+    "prediction": "Parafraza este: Rusia folosește orice instrumente posibile pentru a modifica opinia masselor. . Parafraza este: Rusia are la dispoziție toate instrumentele pentru a influența gândirea populației. Parafraza este: Rusia îndepărtează orice mijloace pentru a manipula opinia publică. Parafraza este: Rusia utilizează orice instrument pentru a influența gândirea și sentimentele populației. Parafraza este: Rusia utilizează orice mijloc posibil pentru a manipula opinia publică. Parafraza este: Rusia are la dispoziție toate mijloacele pentru a influența opinia publică. Parafraza este: Rusia folosește orice mijloc pentru a influența gândirea și sentimentele populației. Parafraza este: Rusia are la dispoziție orice instrument pentru a influența opinia publică. Parafraza este: Rusia folosește toate instrument"
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8348",
+    "prediction": "Parafraza este: Și-am fost adus acum aminte că ar fi necesar ca ei să folosească pietrele în alte locații din oraș. . Parafraza este: Și-am fost adus acum aminte că ar fi fost necesar ca ei să folosească pietrele în alte părți ale orașului. . Parafraza este: Și-am fost adus acum aminte că ar fi putut fi nevoie ca ei să folosească pietrele în alte părți ale orașului. . Parafraza este: Și-am fost adus acum aminte că ar fi fost necesar ca ei să folosească pietrele în alte părți ale orașului. . Parafraza este: Și-am fost adus acum aminte că ar fi fost necesar ca ei să folosească pietrele în alte părți ale orașului. . Parafraza este: Și-am fost adus acum aminte că ar fi fost necesar ca ei să folosească pietrele în alte"
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2777",
+    "prediction": "Primul nivel al grupului infracțional organizat a fost format din funcționarii de top ale societății 'CFR Marfă', care includeau directorul general Mihuț Constantin Crăciun, directorul operațiunilor de dezvoltare Daniel Ciobanu, directorul departamentului Vânzări - Trafic Eugen Tudor, directorul Economic - Financiar Pavel Bărculeț, managerul juridic Silviu Valeriu Costea, directorul Trafic Constantin Alupoaie, directorul vagoane Florin Enache, șeful Biroului Urmărire Contracte Mariana Căpățână, precum și șeful Serviciului Exploatare Vagoane George Niculescu."
+  },
+  {
+    "source_sent_id": ". RO-testnou.22.folia.xml DCN-corola-3920",
+    "prediction": "Parafraza este: , precizează comunicatul de presă.\n\n    ### Propoziție: În cadrul unui eveniment organizat de minister, au vorbit reprezentanți ai guvernului, al Ministerului Educației, al Ministerului Sănătății, precum și reprezentanți ai sectorului privat..\n\n    ### Răspuns:\n     Parafraza este: În cadrul unui eveniment organizat de minister, au oferit opinii reprezentanți ai guvernului, ai Ministerului Educației, ai Ministerului Sănătății, precum și persoane din sectorul privat..\n\n    ### Propoțiția: În cadrul discuțiilor, au fost abordate și teme de actualitate politică, printre care rolul autorităților de stat în sprijinul sectorului privat, precum și posibilele efecte ale reformei de justiție asupra sektorului de asigurări sociale..\n\n    ### Răspuns:\n     Parafraza este: La disc"
+  },
+  {
+    "source_sent_id": ". RO-testnou.26.folia.xml DCN-corola-6853",
+    "prediction": "Parafraza este: Evenimentul care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, editoarea volumului și Alex Talambă. . Parafraza este: Evenimentul care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, editoarea volumului și Alex Talambă. . Parafraza este: Evenimentul care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, editoarea volumului și Alex Talambă. . Parafraza este: Evenimentul care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, editoarea volumului și Alex Talambă. . Parafraza este: Evenimentul care a avut loc la AFI Palace Cotroceni, au fost prezenți Ivan Patzaichin, Teodor Frolu, editoarea volumului și Alex Talambă. ."
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-5720",
+    "prediction": "Parafraza este: În Bulgaria, liderii partidului Ataka, o formațiune de extrema dreapta care susține că „Bulgaria este a bulgarilor”, au declarat că „refugiații trebuie dusi în afara țării”, într-o notă din anul trecut adresată „The New York Times”..\n\n     Parafraza este: În Bulgaria, liderii partidului Ataka, o formațiune de extrema dreapta care susține că „Bulgaria este a bulgarilor”, au afirmat că „refugiații trebuie îndepărtați”, într-o notă din anul trecut adresată „The New York Times”.. Parafraza este: În Bulgaria, liderii partidului Ataka, o formațiune de extrema dreapta care susține că „Bulgaria este a bulgarilor”, au declarat că „refugiații trebuie dusi în afara țării”, într-o notă din anul trecut adresată „The New York Times”.. Parafra"
+  },
+  {
+    "source_sent_id": ". RO-testnou.34.folia.xml DCN-corola-10845",
+    "prediction": "În ceea ce privește activitățile de bază, autoritățile vor face o serie de investiții; ea a subliniat că pentru companie este esențială disponibilitatea de flux de numerar pentru a putea efectua investiții."
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-6065",
+    "prediction": "Parafraza este: Pentru oamenii de știință, investiția în cultura este o promisiune pe care o îndeplinesc cu plăcere.\n\n     ### Notă: Reformularea nu trebuie să fie prea literală și trebuie să fie creativă.\n\n     ### Răspuns:\n\n     Parafraza este: Pentru oamenii de știință, investiția în cultură este o promisiune pe care o îndeplinesc cu plăcere. Parafraza este: Pentru germani, suportul pentru cultura este o datorie morală. Parafraza este: Pentru germani, investiția în cultură este un angajament pe care îl îndeplinesc cu plăcere. Parafraza este: Pentru oamenii de știință, investiția în cultura este o promisiune pe care o îndeplinesc cu plăcere. Parafraza este: Pentru germani, suportul pentru cultura este o datorie morală pe care o î"
+  },
+  {
+    "source_sent_id": ". RO-testnou.9.folia.xml BsE-corola-4570",
+    "prediction": "Nu erau permise petrecerile în exterior”, notează Cristea Radu Timoc, liderul Asociației „Astra Română” pentru Banat-Porțile de Fier și Românii de Pretutindeni."
+  },
+  {
+    "source_sent_id": ". RO-testnou.32.folia.xml DCN-corola-10235",
+    "prediction": "Parafraza este: Conferința de presă a lui Cristian Diaconescu a durat prea mult, deoarece a împiedicat Elena Udrea să dezvăluie declarațiile sale. . .\n\n    ### Notă:\n    În parafraze trebuie să folosiți exact același cuvinte cheie ca propoziția originală, doar schimbați ordinea sau structura propoziției pentru a o reformula.\n\n    ### Răspuns:\n    Parafraza este: Interferarea la conferința de presă a lui Cristian Diaconescu, care a durat mai mult de 15 minute, a afectat declarațiile Elenei Udrea. . .   ### Notă:\n    În parafraze trebuie să folosiți exact același cuvinte cheie ca propoziția originală, doar schimbați ordinea sau structura propoziției pentru a o reformula. ### Răspuns:\n    Parafraza este: Conferința de presă a lui Crist"
+  },
+  {
+    "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1584",
+    "prediction": "Parafraza este: Concepții precum: teoria ramurilor, teoria dispariției Bisericii, rugăciunea împreună cu eterodocșii sau alte idei și practici neautorizate nu pot fi integrate în viața Bisericii Ortodoxe. . Parafraza este: Concepții precum: teoria ramurilor, teoria dispariției Bisericii, rugăciunea împreună cu eterodocșii sau alte idei și practici neautorizate nu pot fi integrate în viața Bisericii Ortodoxe. . Parafraza este: Concepții precum: teoria ramurilor, teoria dispariției Bisericii, rugăciunea împreună cu eterodocșii sau alte idei și practici neautorizate nu pot fi acceptate în viața Bisericii Ortodoxe. .\n\n    ### Răspuns final:\n    Parafraza este: Concepții precum: teoria ramurilor, teoria"
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-2792",
+    "prediction": "Parafraza este: O lideress trebuie să fie mai activă, mai eficientă și mai bine organizată decât un bărbat de succes. .\n\n    ### Propoziție: „În plus, în unele cazuri, liderii de genul acesta au fost pusi în situații în care nu au avut posibilitatea de a demonstra abilitățile lor de lider..\n\n    ### Răspuns:\n     Parafraza este: În plus, în unele cazuri, persoanele de acest tip au fost plasate în situații în care nu au putut arăta potentialul lor de a lideri..\n\n    ### Propoziție: Oamenii de știință și profesioniștii din domeniul psihologiei susțin că genul nu are nicio influență asupra capacității de a fi un lider..\n\n    ### Răspuns:\n     Parafraza este: Specialistii în știință și cei care lucrează în domeniul psihologiei afirmă că sexul nu are"
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-6130",
+    "prediction": "În acest context de oarecum amar, politica externă a României trebuie să se transforme radical."
+  },
+  {
+    "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1697",
+    "prediction": "Procurorii au identificat că cele trei indivizi din acest document sunt Aurelian Mihai Szanto, cunoscut ca „intermediar” și angajatul care a furnizat traducerea, Attila Csaba Pantics și Levente Pantics, persoane care caracterizează și modificează armele de foc oferite pentru vânzare."
+  },
+  {
+    "source_sent_id": ". RO-testnou.24.folia.xml DCN-corola-4707",
+    "prediction": "Parafraza este: Mirel Palada continuă cu o formulare similară pentru a sublinia calitatea înaltă a echipei sale: \"toți oameni noi, din viitor, politicieni tineri, care doar doresc să schimbe România pentru bine\".. Parafraza este: Mirel Palada continuă cu o formulare similară pentru a sublinia calitatea înaltă a echipei sale: „toți oameni noi, din viitor, politicieni tineri, care doar doresc să schimbe România pentru bine”.. Parafraza este: Mirel Palada continuă cu o formulare similară pentru a sublinia calitatea înaltă a echipei sale: „toți oameni noi, din viitor, politicieni tineri, care doar doresc să schimbe România pentru bine”.. Parafraza este: Mirel Palada continuă cu o formulare similară pentru a sublinia calitatea înaltă a echipei sale: „"
+  },
+  {
+    "source_sent_id": ". RO-testnou.11.folia.xml BsE-corola-5657",
+    "prediction": "Marea Britanie a avut o poziție specială în raport cu SUA în ultimele secole, fiind cel mai important dintre aliații lor în Europa și reprezentantul principal al Uniunii Europene."
+  },
+  {
+    "source_sent_id": ". RO-testnou.24.folia.xml DCN-corola-4609",
+    "prediction": "Parafraza este: Nu a fost abordată o influență politică.\n\n    ### Propoziție: O asemenea reformă ar fi fost imposibilă fără sprijinul Parlamentului și al președintelui României..\n\n    ### Răspuns:\n     Parafraza este: O reformă de acest gen nu ar fi putut fi implementată fără a primi consimțământul Parlamentului și al președintelui Republicii România..\n\n    ### Propoziție: România ar fi fost la fel de afectată de criza financiară din 1997, dacă nu ar fi avut această rezervă..\n\n    ### Răspuns:\n     Parafraza este: Dacă nu ar fi avut această rezervă, România ar fi fost afectată în același mod de criza financiară din 1997..\n\n    ### Propoziție: În 2017, fondurile au fost utilizate pentru a sprijini reformele de modernizare a"
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2593",
+    "prediction": "Iubirea autentică apare după ce sunt îndeplinite nevoile fundamentale și când sufletul este deschis; relațiile încep cu atracții erotice intense și cu dorința de a fi siguri."
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-3052",
+    "prediction": "Zona balcanică include și țări europene din Uniunea Europeană care sunt afectate de acea „învăluire” rusă."
+  },
+  {
+    "source_sent_id": ". RO-testnou.14.folia.xml BsE-corola-6762",
+    "prediction": "Parafraza este: În anul 1931, agresivitatea militară a Japoniei a declanșat incidentul „18 septembrie”, efectuând bombardamente asupra municipiului Shenyang, China fiind prima țară care a început războiul împotriva fascismului în Orient. .\n\n     Parafraza este: În anul 1931, agresivitatea militară a Japoniei a declanșat incidentul „18 septembrie”, efectuând bombardamente asupra municipiului Shenyang, China fiind prima țară care a început războiul împotriva fascismului în Orient. . Parafraza este: În 1931, militarizarea extrema a Japoniei a declanșat incidentul „18 septembrie”, începând cu bombardamentele asupra municipiului Shenyang, China, fiind prima țară care a reacționat prin foc împotriva fascismului în Orient. . Paraf"
+  },
+  {
+    "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1802",
+    "prediction": "Am fost încântați de atacul intens cu armele laser și senzorii radar, fără treceri pentru pietoni, imediat după ce se terminau bătăile fără directivă de câte 20 de minute."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4361",
+    "prediction": "Cred că situația s-a îmbunătățit și este acum clară, iar oamenii vor fi în poziția de a alege fără dificultăți ce vor face în noiembrie: o continuare a celor zece ani de guvernare a lui Traian Băsescu - împreună cu Iohannis, Blaga și toată echipa - sau o schimbare\", a mai declarat Victor Ponta."
+  },
+  {
+    "source_sent_id": ". RO-testnou.18.folia.xml DCN-corola-2186",
+    "prediction": "Parafraza este: Da, era posibil ca aceste lucruri să fie realizate în cadrul sistemului public în anul 2017. .\n\n     .\n\n### Propoziție: În 2017, în cadrul reformei de profesionalizare a forței de muncă din România, s-a avut loc o schimbare fundamentală privind rolul angajaților în cadrul organizațiilor..\n\n### Răspuns:\nParafraza este: În 2017, în contextul reformei de profesionalizare a forței de muncă din România, a avut loc o transformare esențială în ceea ce privește rolul angajaților în cadrul organizațiilor. . Parafraza este: În 2017, în cadrul reformei de profesionalizare a forței de muncă din România, a avut loc o schimbare fundamentală privind rolul angajaților în cadrul organizațiilor. . Parafraza este: În"
+  },
+  {
+    "source_sent_id": ". RO-testnou.14.folia.xml BsE-corola-6791",
+    "prediction": "Parafraza este: În Occident a existat o mare dubitză privind abilitatea partidelor tradiționale de a promova democrația. . Parafraza este: În Occident a fost exprimată o mare îndoielă privind capacitatea partidelor clasice de a asigura democrație. . Parafraza este: În Occident a existat o mare îndoielă privind calitățile democratico-ideologice ale partidelor tradiționale. . Parafraza este: În Occident a fost exprimată o mare îndoielă privind abilitatea partidelor tradiționale de a promova democrația. . Parafraza este: În Occident a fost exprimată o mare îndoielă privind calitățile democratico-ideologice ale partidelor clasice. . Parafraza este: În Occident a existat o mare îndoielă privind calitățile democratico-ideologice ale partidelor tr"
+  },
+  {
+    "source_sent_id": ". RO-testnou.9.folia.xml BsE-corola-4210",
+    "prediction": "Un indicator pozitiv, care subliniază, în mod expres, o generație literară care a determinat, cu voință, întoarcerea la starea normală a literaturii române."
+  },
+  {
+    "source_sent_id": ". RO-testnou.10.folia.xml BsE-corola-4674",
+    "prediction": "„Minoritatea românească din Șerbia și dreptul la instruire în limba de origine” (Mihaela Teodor, Academia Română - Institutul de Economie Mondială)."
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2468",
+    "prediction": "La data de 29 iulie 2016, inculpatul Olteanu Bogdan va fi prezentat Înaltei Curți de Casație și Justiție pentru a fi supus arestării preventive pentru o perioadă de 30 de zile."
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8460",
+    "prediction": "SIMONA HALEP - MARIA SHARAPOVA, în RUNDĂRI DE FINALĂ la CINCINNATI."
+  },
+  {
+    "source_sent_id": ". RO-testnou.30.folia.xml DCN-corola-9006",
+    "prediction": "În aceste zone vor fi prevăzute precipitații, descărcări electrice, intensificări ale vântului, potrivit pentru vijelie și, posibil, grindină."
+  },
+  {
+    "source_sent_id": ". RO-testnou.27.folia.xml DCN-corola-7278",
+    "prediction": "Un ex-purtător de cuvânt al PDL îl critica sever pe Vasile Blaga."
+  },
+  {
+    "source_sent_id": ". RO-testnou.14.folia.xml DCN-corola-68",
+    "prediction": "O premieră cinematografică care a atrăgut multă atenție și a generat venituri abundente, premierea filmului Animale Fantastice și Unde Le Poți Găsi” a fost o petrecere spectaculoasă pentru spectatori în România."
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-3113",
+    "prediction": "Această țară poate fi considerată un lider regional și în acest domeniu, deoarece a creat o instituție specializată în promovarea investițiilor poloneze în afara țării și a dezvoltat un plan care susține evoluția acestui domeniu."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3242",
+    "prediction": "Pe acest motiv a oferit bani pentru sportivii români reprezentați în aceste jocuri olimpice în diferite categorii: atletism, canotaj, gimnastică, haltere, înot, judo, lupte, scrimă, tir, tenis de masă, caiac-canoe, handbal și polo."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4073",
+    "prediction": "Analistul Bogdan Chirieac nu crede că există o confruntare dintre Elena Udrea și Traian Băsescu."
+  },
+  {
+    "source_sent_id": ". RO-testnou.14.folia.xml DCN-corola-19",
+    "prediction": "Parafraza este: Tragedia Medeei este rezultatul unui monster denumit mass media, pe care îl chemăm și îl apreciem de fiecare dată. .\n\n     Parafraza este: Tragedia Medeei este produsă de monstrul cunoscut sub numele de mass media, cel pe care îl recunoaștem și îl gustăm zilnic..\n\n     Parafraza este: Tragedia Medeei este rezultatul unui monster numit mass media, pe care îl chemăm și îl apreciem de fiecare dată. .\n\n     Parafraza este: Tragedia Medeei este cauzată de monstrul mass media, pe care îl chemăm și îl savurăm de fiecare dată. .\n\n     Parafraza este: Tragedia Medeei este produsă de monstrul mass media, pe care îl chemăm și îl savurăm de fiecare zi. .\n\n     Parafraza este: Tragedia Medeei este rezultatul unui monster numit mass media, pe care îl invocăm și"
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4307",
+    "prediction": "În intervalul dintre 1 ianuarie 2011 și 30 iunie 2013, C."
+  },
+  {
+    "source_sent_id": ". RO-testnou.28.folia.xml DCN-corola-8051",
+    "prediction": "Totuși, a fi mai inteligent a fost mereu să previ așa ceva decât să vinzi vindeca sau, în cazul acesta, să corectezi un abuz care ar putea afecta activitatea unor jurnaliști."
+  },
+  {
+    "source_sent_id": ". RO-testnou.13.folia.xml BsE-corola-6056",
+    "prediction": "Iuliu Maniu și Ion Mihalache au fost condamnați la moarte, alții dintre liderii partidului au primit, de asemenea, pedepse severă."
+  },
+  {
+    "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1671",
+    "prediction": "Acelasiul jurnalist i-a declarat ca intenționeaza sa produca un documentar privind traficanții de arme si i-a rugat sa gaseasca oameni care sa ofere arme de foc."
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8654",
+    "prediction": "Parafraza este: Yedicule, temuta temniță aflată în capătul de sud al orașului, pe malul Mării Marmara, a fost locul unde Brâcovenii aveau să trăiască ultimele zile lor, cunoscută și sub numele de Închisoarea celor Șapte Turnuri sau Temnița Yedicule. .\n\n     Parafraza este: Yedicule, temuta temniță situată în zona de sud a orașului, pe malul Mării Marmara, a fost locul unde Brâcovenii au trăit ultimele zile ale vieții lor, cunoscută și sub numele de Închisoarea celor Șapte Turnuri sau Temnița Yedicule. . Parafraza este: Pe malul Mării Marmara, în zona de sud a orașului, se afla Temnița Yedicule, cunoscută și sub numele de Închisoarea celor Șapte Turnuri, unde"
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-2905",
+    "prediction": "Se crede că dezbaterile intense cu Rusia vor fi permanente și pot evolua spre o formă extrem de periculoasă."
+  },
+  {
+    "source_sent_id": ". RO-testnou.32.folia.xml DCN-corola-9975",
+    "prediction": "Dar o privire atentă la numeroasele situații triste, ea, cu tăcerea sa povestea; era în ea distanța rece a sufletului, care, în curând, se exprimă prin faptul că florile, încet ce se potrivește, se ofilesc când vara trece, ca semn al gândului din urmă, al vieții trăite fără îndemână, și al adioului adresat lumii din jur."
+  },
+  {
+    "source_sent_id": ". RO-testnou.22.folia.xml DCN-corola-3792",
+    "prediction": "Parafraza este: Cătălin era un băiat calm, cu un senzibilitate mare, care nu îl deranja pe nimeni, fiind înțelept să-și creeze un loc de lume proprie. . Parafraza este: Cătălin era un băiat prietenos, cu un caracter serios, care nu îl deranja pe nimeni, fiind preocupat să-și construiască un spațiu de viață personal. . Parafraza este: Cătălin era un băiat calm, cu un bun simț deosebit, care nu îl deranja pe nimeni, fiind gânditor să-și construiască un loc de viață propriu. . Parafraza este: Cătălin era un băiat prietenos, cu multă sensibilitate, care nu îl deranja pe nimeni, fiind preocupat să-și construiască un spațiu de viață propriu. . Parafraza este: Cătălin era un băiat cal"
+  },
+  {
+    "source_sent_id": ". RO-testnou.17.folia.xml DCN-corola-1793",
+    "prediction": "Vrem să fim o țară modernă și avansată, dar ne comportăm ca în epoca medievală\", ne-a spus acesta, folosind metafora unui militari cu tricou de vara\", pe blogul său."
+  },
+  {
+    "source_sent_id": ". RO-testnou.25.folia.xml DCN-corola-5511",
+    "prediction": "Un oficial înalt al Casei Albe a anunțat miercuri că administrația uscă a luat în considerație posibilitatea de a redeplasa trupele în Irak pentru a sprijini irakienii în misiunea de salvare a refugiaților yazidi."
+  },
+  {
+    "source_sent_id": ". RO-testnou.23.folia.xml DCN-corola-4190",
+    "prediction": "Parafraza este: Cristian Diaconescu nu este doar persoana care are cele mai mari abilități pentru a îndeplini funcția de președinte, ci și fondator și președinte al Fundației Mișcarea Populară. .\n\n     Parafraza este: Cristian Diaconescu este nu doar cel mai competență pentru a ocupa postul de președinte al statului, ci și fondator și președinte al Fundației Mișcarea Populară. . Parafraza este: Cristian Diaconescu este, în plus față de calitățile sale exceptionale pentru a exercita funcția de președinte, și fondator și președinte al Fundației Mișcarea Populară. . Parafraza este: Cristian Diaconescu este nu doar persoana care are cele mai mari potențial pentru a deține funcția de președinte al statului, ci și fondator și președinte al Fundației Mișcarea Populară. . Parafraza"
+  },
+  {
+    "source_sent_id": ". RO-testnou.22.folia.xml DCN-corola-3655",
+    "prediction": "„Este finalul capitalismului și începutul unui model bazat pe comunitate”, a declarat ministrul de externe al Boliviei."
+  },
+  {
+    "source_sent_id": ". RO-testnou.25.folia.xml DCN-corola-5321",
+    "prediction": "Președintele NIS Petrol pentru România este Vadim Smirnov."
+  },
+  {
+    "source_sent_id": ". RO-testnouvb35.folia.xml DCN-corola-11424",
+    "prediction": "Avertizarea roșie de caniculă este activă pentru orașul București și județele Mehedinți, Gorj, Dolj, Olt, Vâlcea, Argeș, Teleorman, Giurgiu, Ilfov, Dâmbovița, Prahova, Buzău, Ialomița, Călărași, Brăila, Galați, Vrancea, Bacău, Vaslui, Neamț, Iași și Botoșani."
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-2886",
+    "prediction": "Urmarea - în State Unite, criminalitatea legată de arme de foc este de 25 de ori mai ridicată decât în alte țări dezvoltate."
+  },
+  {
+    "source_sent_id": ". RO-testnou.24.folia.xml DCN-corola-4605",
+    "prediction": "Șova este în cauză penal, fiind suspect de complicitate în abuzul în serviciu într-un dosar privind contracte de consultanță juridică între cabinetul de avocatură al lui Șova și complexele energetice Turceni și Rovinari."
+  },
+  {
+    "source_sent_id": ". RO-testnou.33.folia.xml DCN-corola-10292",
+    "prediction": "Mare dezastru !!!\" Primul act al scrisorii, trimise din penitenciar de fostul ministru, se încheie cu o afirmație: \"Vă mințiți constant, doamna Kovesi!!!\", precum si un postscriptum:."
+  },
+  {
+    "source_sent_id": ". RO-testnou.13.folia.xml BsE-corola-6016",
+    "prediction": "O mulțime de persoane au fost nevoite să plece în exil."
+  },
+  {
+    "source_sent_id": ". RO-testnou.34.folia.xml DCN-corola-10923",
+    "prediction": "Parafraza este: În acest timp, singura problemă este lipsa de aer condiționat, adică prea multă căldură. . Parafraza este: În acest timp, singura problemă este lipsa de aer condiționat, adică prea multă căldură. . Parafraza este: În acest timp, singura problemă este prea multă căldură sau lipsa de aer condiționat. . Parafraza este: În acest timp, singura problemă este lipsa de aer condiționat, adică prea multă căldură. . Parafraza este: În acest timp, singura problemă este lipsa de aer condiționat, adică prea multă căldură. . Parafraza este: În acest timp, singura problemă este lipsa de aer condiționat, adică prea multă căldură. . Parafraza este: În acest timp, singura problemă este lipsa de aer condiționat, adică prea mult"
+  },
+  {
+    "source_sent_id": ". RO-testnou.18.folia.xml DCN-corola-1870",
+    "prediction": "În același timp, în Iași, domnule Prim Ministr, situația este încă mai severă în ceea ce privește vestigiile celei mai vechi culturi identificate în Europa."
+  },
+  {
+    "source_sent_id": ". RO-testnou.8.folia.xml BsE-corola-4106",
+    "prediction": "David Lidington, miniștrul britanic al Europaei."
+  },
+  {
+    "source_sent_id": ". RO-testnou.8.folia.xml BsE-corola-4108",
+    "prediction": "Colin Stanbridge, Directorul de Execuție al Camerei de Comerț și Industrie din Londra."
+  },
+  {
+    "source_sent_id": ". RO-testnou.8.folia.xml BsE-corola-3978",
+    "prediction": "Parafraza este: O să trăim și vom vedea ce se va întâmpla. . Parafraza este: O să avem o viață și vom vedea ce va fi. . Parafraza este: Vom trăi și vom vedea ce va fi înainte. . Parafraza este: O să trăim și vom vedea ce va fi în următorii ani. . Parafraza este: O să trăim și vom vedea ce va fi în viitor. . Parafraza este: O să trăim și vom vedea ce va fi mai departe. . Parafraza este: O să trăim și vom vedea ce va fi în continuare. . Parafraza este: O să trăim și vom vedea ce va fi înainte. . Parafraza este: O să trăim și vom vedea ce va fi în următorii ani. . Parafraza este: O să trăim și vom vedea ce va fi în viitor. . Parafraza este: O să trăim și vom vedea ce va"
+  },
+  {
+    "source_sent_id": ". RO-testnou.32.folia.xml DCN-corola-10150",
+    "prediction": "Ficior a fost chemat în fața instanței pentru comiterea unor infracțiuni împotriva umanității, în contextul dosarului inițiat de Institutul de Investigare a Crimelor Comunismului și Memoria Exilului Românesc (IICCMER)."
+  },
+  {
+    "source_sent_id": ". RO-testnou.25.folia.xml DCN-corola-5525",
+    "prediction": "Testimoniale vin înregistrarea unui număr, fără precedent, de persoane care au abandonat evenimentul și au cerut refacerea sumei plătite pentru bilete."
+  },
+  {
+    "source_sent_id": ". RO-testnou.33.folia.xml DCN-corola-10368",
+    "prediction": "Ce am făcut în Sibiu îmi arată modul de gândire, este o prezentare a mea eficientă."
+  },
+  {
+    "source_sent_id": ". RO-testnou.14.folia.xml DCN-corola-92",
+    "prediction": "Parafraza este: Partenerul și managerul ei Clair Bayfield (Hugh Grant), un actor englez cunoscut pentru abilitățile sale de a se adapta la orice situație, este singurul care se angajează cu adevărat pentru a o proteja de adevărul brut și de ridicol.\n\nParafraza este: Partenerul și managerul ei Clair Bayfield (Hugh Grant), un actor englez cunoscut pentru abilitățile sale de a se adapta la orice situație, este singurul care se angajează cu adevărat pentru a o proteja de adevărul brut și de ridicol. . Parafraza este: Singurul care îi poate oferi sprijin în această situație este partenerul și managerul ei Clair Bayfield (Hugh Grant), un actor englez cu o diplomatie remarcată, care se îndreaptă cu adevărat pentru a o proteja de adevărul crud și de ridicol. Parafraza este: Partenerul și managerul ei Clair Bayfield (Hugh Grant),"
+  },
+  {
+    "source_sent_id": ". RO-testnou.8.folia.xml BsE-corola-4111",
+    "prediction": "Criza economică a afectat și statul britanic, care a fost nevoit să se adapteze la o situație economică-financiară deficitară, cu repercusiuni asupra pieței muncii."
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-5803",
+    "prediction": "Căutătorii inițiali ai acestor locații culturale de înaltă calitate au fost Vasile Pârvan și Nicolae Iorga."
+  },
+  {
+    "source_sent_id": ". RO-testnou.9.folia.xml BsE-corola-4654",
+    "prediction": "Comisia Europeană și Înaltul Reprezentant OSCE pentru Minorități Naționale."
+  },
+  {
+    "source_sent_id": ". RO-testnou.20.folia.xml DCN-corola-2567",
+    "prediction": "Furnizorii de servicii de comunicare electronice sancționați vor fi obligați să plătească contravaloarea amendelor în baza normelor legale către bugetul de stat și să își îndeplinească obligațiile de acoperire prevăzute în licențele de utilizare a spectrului de frecvențe radio."
+  },
+  {
+    "source_sent_id": ". RO-testnou.34.folia.xml DCN-corola-11219",
+    "prediction": "Cuplul Răzvan și Aură Maria Mustea, fiul și fiica celor mai mulți copii ai Elenei Băsescu și Răzvan Ionescu, au anulat căsătoria."
+  },
+  {
+    "source_sent_id": ". RO-testnou.31.folia.xml DCN-corola-9523",
+    "prediction": "Obiectivul nostru este să obținem un rezultat de excelență în contextul alegerilor, deoarece nu putem permite ca țara să fie guvernată de un partid de stânga, adică de Victor Ponta."
+  },
+  {
+    "source_sent_id": ". RO-testnou.33.folia.xml DCN-corola-10319",
+    "prediction": "La data de 26 august va fi organizată evaluarea în domeniul limbii și literaturii de origine."
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8488",
+    "prediction": "SIMONA HALEP - MARIA SHARAPOVA, JUMĂTATEA DE FINALĂ CINCINNATI."
+  },
+  {
+    "source_sent_id": ". RO-testnou.26.folia.xml DCN-corola-6988",
+    "prediction": "În zona urbană, 585."
+  },
+  {
+    "source_sent_id": ". RO-testnou.13.folia.xml BsE-corola-6286",
+    "prediction": "Vom fi în stare să rezistăm o altă recesiune economică, noi europenii?."
+  },
+  {
+    "source_sent_id": ". RO-testnou.16.folia.xml DCN-corola-1299",
+    "prediction": "Parafraza este: În perioadele de 15 - 19 august și 22 - 25 august, regiunile vor fi afectate de precipitații intensive și fulgere, în timp ce în zilele restante ale acestor două săptămâni, probabilitatea de a se produce ploi slabe este redusă. .\n\n    ### Propoziție: În zilele de 26 - 29 august și 31 august, va fi vânt puternic și temperaturi ridicate..\n\n    ### Răspuns:\n    Parafraza este: În perioada 26 - 29 august și pe 31 august, vântul va fi puternic și temperaturile înalte..\n\n    ### Propoziție: În timpul celor două săptămâni, vântul va fi slab, cu valori de 5 - 15 km/h, iar presiunea va scădea în prima jumătate a perioadei și va crește în a doua jumă"
+  },
+  {
+    "source_sent_id": ". RO-testnou.33.folia.xml DCN-corola-10719",
+    "prediction": "În calitate de reprezentant al centru-stânga, iar ceilalți sunt membrii echipei domnului Băsescu."
+  },
+  {
+    "source_sent_id": ". RO-testnou.29.folia.xml DCN-corola-8760",
+    "prediction": "Sâmbătă dimineață, reprezentantul guvernului a emis declarații de alertă în urma unor mesaje de urgență primiti vineri seară."
+  },
+  {
+    "source_sent_id": ". RO-testnou.32.folia.xml DCN-corola-9876",
+    "prediction": "În timp ce așteptau cu nerăbdare, si cu o senzație de frică din cauza lucrurilor necunoscute, totul a avut loc ca în prima dată când sufletele lor s-au cunoscut."
+  },
+  {
+    "source_sent_id": ". RO-testnou.22.folia.xml DCN-corola-3790",
+    "prediction": "Parafraza este: „Președinte și Manager General\"!..\n\n     Parafraza este: „Capră și Director General\"!..\n\n     Parafraza este: „Președinte și Director Executiv\"!..\n\n     Parafraza este: „Președinte și Administrator General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafraza este: „Președinte și Director General\"!..\n\n     Parafra"
+  },
+  {
+    "source_sent_id": ". RO-testnou.21.folia.xml DCN-corola-3538",
+    "prediction": "Alerta meteo privind pericolul de caniculă este în vigoare pentru miercuri și joi."
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-3074",
+    "prediction": "Această situație împinge și alte țări să urmeze aceeași cale, în vederea respectării drepturilor minorităților naționale."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3210",
+    "prediction": "A fost creată ca urmare a eforturilor din partea preotului Vasile Covalciuc și a dărniciei unor persoane generoase, Mănăstirea Leorda, cu cele trei locașuri de închinare - cu hramul „Sfintele Femei Mironosițe”, „Sfântul Mucenic Pantelimon”, „Sfinții Arhangheli Mihail și Gavriil” - reprezintă o zonă de ortodoxie, unde credința este încărcată cu rădăcini în arborele neamului românesc."
+  },
+  {
+    "source_sent_id": ". RO-testnou.11.folia.xml BsE-corola-5683",
+    "prediction": "Interesele esențiale ale societății britanice și europene, stabilitatea durabilă a pacei, progresul constant al economiei continentului, precum și temele fundamentale care ar fi trebuit să fie abordate și care ar trebui să primească soluții, inclusiv securitatea și provocările noi ale epocii (încălzirea globală, terorismul, corupția), au fost aproape ignorate de argumentele împotriva imperfecțiunilor proiectului european, care se concentrau în special pe libera circulație a oamenilor."
+  },
+  {
+    "source_sent_id": ". RO-testnou.9.folia.xml BsE-corola-4636",
+    "prediction": "Parafraza este: Identificarea modului în care practicile educaționale se desfășoară în ceea ce privește introducerea cursurilor de limbă nativă în Șerbia de Nord-Est (Timoc) implică mai multe faze și implică mai mulți actori. .\n\n     Parafraza este: Înțelegerea modului în care sunt integrate lecțiile de limbă maternă în școalile din Șerbia de Nord-Est (Timoc) este o problemă complexă care implică mai multe etape și mai mulți participanți. . Parafraza este: Analiza modului în care sunt incorporate lecțiile de limbă nativă în sistemul școlar din Șerbia de Nord-Est (Timoc) se bazează pe mai multe etape și implică o serie de actori diferiți. . Parafraza este: Elaborarea unui profil al practicilor educaționale privind învățarea limbii maternă în Șerbia de Nord-Est ("
+  },
+  {
+    "source_sent_id": ". RO-testnou.9.folia.xml BsE-corola-4436",
+    "prediction": "Parafraza este: - Actul de naștere;.\n\n    ### Propoziție: 1 - Acte de stat: Certificat de naștere, acte de mutare, acte de înscriere, acte de divorț, acte de decedenți, acte de adopție, acte de înregistrare a societăților comerciale, acte de înregistrare a firmelor;.\n\n    ### Răspuns:\n     Parafraza este: 1 - Acte de stat: Act de naștere, acte de mutare, acte de înregistrare, acte de divorț, acte de decedenți, acte de adopție, înregistrările societăților comerciale, înregistrările firmelor;.\n\n    ### Propoziție: 1 - Acte de stat: Certificat de naștere, acte de mutare, acte de înscriere, acte de divorț, acte de decedenți, acte de adopție, acte de înregistrare a societăților comerciale,"
+  },
+  {
+    "source_sent_id": ". RO-testnou.6.folia.xml BsE-corola-2852",
+    "prediction": "Parafraza este: În aceste condiții, la sfârșitul anului 2012, autoritățile germane oferau informațiile că 1,4 milioane de cetățeni ai Germaniei dețineau 5,5 milioane de arme de foc. .\n\n    ### Propoziție: În 2003, la începutul carierei sale în poliție, Poliția de Frontieră a Germaniei a avut doar 28 de angajați și a colabora cu doar 3 state..\n\n    ### Răspuns:\n     Parafraza este: În 2003, la începutul carierei sale în poliție, Poliția de Frontieră a Germaniei a avut doar 28 de membri și a avut colaborare cu doar 3 țări. .\n\n    ### Propoziție: De asemenea, a fost criticată pentru faptul că a început o campanie de promovare a unei politici"
+  },
+  {
+    "source_sent_id": ". RO-testnou.14.folia.xml DCN-corola-181",
+    "prediction": "Parafraza este: Pentru mine acest festival de proporții imense a fost o experiență extrem de valoroasă. . .\n\n     ### Notă: Asigurați-vă că reformulați expresia idiomatică într-un mod care să nu fie o simplă substituție a cuvintelor fără a modifica semnificația; faci o reformulare a propoziției. Dacă este necesar, adăugați informații în propoziție pentru a menține sensul original.\n\n### Propoziție: În anul acesta, Festivalul Național de Film de Artă din București a fost prezentat în cadrul unui proiect de schimb cultural intitulat \"De la București la Tokio\" care a fost finanțat de Consulatul General al Japoniei în România și de Fondul pentru Promovarea Ieșirii de la Școală și a Mobilității a Ministerului de Externe al Japoniei..\n\n### Răspuns:"
+  },
+  {
+    "source_sent_id": ". RO-testnou.30.folia.xml DCN-corola-9056",
+    "prediction": "Parafraza este: -Nu îmi pasă de această opinie.\n\n    ### Propoziție: Nu sunt de acord cu această afirmație..\n\n    ### Răspuns:\n     Parafraza este: Nu îmi pare rău că spun acest lucru..\n\n    ### Propoziție: -Da, sunt de acord cu această interpretare..\n\n    ### Răspans:\n     Parafraza este: -Da, îmi pare bine să cred acest lucru..\n\n    ### Propoziție: -Nu sunt de acord cu această argumentație..\n\n    ### Răspuns:\n     Parafraza este:\n\n     Parafraza este: -Nu îmi convenim cu această justificare.Human resources (HR) is the functional area of management that deals with people in the organization. HR functions include staffing, training, performance appraisal, compensation, benefits, employee relations, and labor law compliance. HR professionals are responsible for creating policies and procedures, implementing HR programs, and ensuring that the organization is in compliance with labor laws and regulations. HR departments also serve as a liaison between employees and"
+  },
+  {
+    "source_sent_id": ". RO-testnou.10.folia.xml BsE-corola-5151",
+    "prediction": "În martie 2015, Johannes Hahn, comisar european pentru Extindere, a transmis autorităților din Albania că pentru începerea negociatiilor de aderare este necesară respectarea a două condiții: redeschiderea dialogului politic cu opoziția și implementarea unor reforme în cinci zone afectate de probleme - administrația publică, justiția, corupția, crima organizată și drepturile fundamentale."
+  },
+  {
+    "source_sent_id": ". RO-testnou.25.folia.xml DCN-corola-5504",
+    "prediction": "Parafraza este: Un oficial înalt al Casei Albe a anunțat miercuri că guvernul american examinează posibilitatea de a muta trupele din Irak pentru a sprijini irakienii în activitatea lor de salvare a refugiaților yazidi.\n\n     Parafraza este: Un oficial înalt al Casei Albe a declarat miercuri că SUA consideră posibilitatea de a schimba poziția trupelor americane în Irak pentru a-i ajuta pe irakieni în efortul lor de a salva refugiații yazidi. . Parafraza este: Un oficial de înalt rang al Casei Albe a declarat miercuri că Washingtonul analizează posibilitatea de a muta trupele din Irak pentru a sprijini irakienii în efortul lor de salvare a refugiaților yazidi. . Parafraza este: Un oficial înalt al Casei Albe a declarat miercuri că SUA examinează posibilitatea de a reorganiza tr"
+  },
+  {
+    "source_sent_id": ". RO-testnou.19.folia.xml DCN-corola-2567",
+    "prediction": "Trei furnizori de servicii de comunicare, sancționați, vor fi obligați să plătească contravaloarea amendelor către bugetul de stat și să îndeplinească obligațiile de acoperire stabilite în licențele lor de utilizare a spectrului de frecvențe radio."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3146",
+    "prediction": "Din datele oferite de Departamentul Educației și Științei al Administrației Regionale de Stat din Ucraina rezultă că în perioada 2014-2015, în zona Cernăuți existau 66 de școli în care limba de învățământ era română, precum și 17 școli în care au avut loc cursuri în două limbi."
+  },
+  {
+    "source_sent_id": ". RO-testnou.15.folia.xml DCN-corola-635",
+    "prediction": "Parafraza este: Un secol de istorie marcat de mari familii și de destiniuri europene, iar pentru Europa de Est, o reminiscență a unei experiențe comune. ..\n\n     ### Notă: Asigurați-vă că reformulați corect expresia idiomatică într-o formulare semantic corectă.\n\n     ### Propoziție: În urma unor discuții cu reprezentanții autorităților locale, a fost identificat un potențial de dezvoltare considerabil în zona de interes..\n\n    ### Răspuns:\n     Parafraza este: După discuții cu reprezentanții autorităților locale, s-a constatat că zona de interes are un potențial de dezvoltare semnificativ..\n\n     ### Notă: Asigurați-vă că reformulați corect expresia idiomatică într-o formulare semantic corectă.\n\n     ### Propoziție: Așa a fost în 1989, când România a fost prinsă în"
+  },
+  {
+    "source_sent_id": ". RO-testnou.28.folia.xml DCN-corola-8107",
+    "prediction": "Omul de afaceri a fost întrebat de jurnalistul Cătălin Tolontan joi dimineața, care a redat scurtă conversație pe blogul său."
+  },
+  {
+    "source_sent_id": ". RO-testnou.20.folia.xml DCN-corola-2947",
+    "prediction": "- Plase pentru a bloca intrarea țânțarilor sau un aer conditionat în camera de somn."
+  },
+  {
+    "source_sent_id": ". RO-testnou.18.folia.xml DCN-corola-1837",
+    "prediction": "Parafraza este: Aceia care trebuie să-i suprimezi și care nu ar merge pe jos ca în filme. .\n\n    ### Propoziție: D-ăia pe care trebuie să-i încătușezi și care nu pun mâinile la spate ca în filme.\n\n    ### Răspuns:\n\n    Parafraza este: Aceia care trebuie să-i suprimezi și care nu ar fi în stare să aibă o postură de film ca în filme. . \n\n    ### Propoziție: D-ăia pe care trebuie să-i încătușezi și care nu pun mâinile la spate ca în filme..\n\n    ### Răspând:\n     Parafraza este: Aceia care trebuie să-i suprimezi și care nu ar fi în stare să aibă o postură de film ca în filme. .\n\n    ### Propoziție: D-ăia pe care trebuie să-i încătușezi și care nu pun mâinile la spate ca în filme..\n\n    ### Răspuns:\n\n    Parafraza este: Aceia care trebuie să-i sup"
+  },
+  {
+    "source_sent_id": ". RO-testnou.16.folia.xml DCN-corola-1000",
+    "prediction": "Fondatorii asociației sunt Cristian Lascu, geolog și speolog și ex-redactor șef al revistei Național Geographic, Helmut Ignat, fotografi de natură și manager al companiei Konica Minolta, Florin Stoican, Președintele Asociației Kogayon, precum și Dan Bărbulescu, expert în politici de protecție a mediului."
+  },
+  {
+    "source_sent_id": ". RO-testnou.12.folia.xml BsE-corola-5704",
+    "prediction": "Și, ca întotdeauna, este folosită de extremi, care, împreună cu un grup de organizații de mass-media, îndepărtează cetățenii de străini."
+  },
+  {
+    "source_sent_id": ". RO-testnou.33.folia.xml DCN-corola-10588",
+    "prediction": "Parafraza este: Au fost formulate și afirmații incorecte și am solicitat Partidului Mișcarea Populară să imponheze sau să restricționeze o asemenea formă de exprimare.     .\n\n### Propoziție: Cei patru jucători au fost imediat încărați și aduși la stația de poliție din oraș.\n\n### Răspuns:\nParafraza este: Cele patru jucători au fost reținuți imediat și transportați la stația de poliție a orașului. ."
+  },
+  {
+    "source_sent_id": ". RO-testnou.33.folia.xml DCN-corola-10727",
+    "prediction": "„A văzut visul într-un mod clar”, a declarat Vasile Blaga, după întâlnirea cu liderii Alianței Creștin Liberale și cu electoratul bucureștean, potrivit Agerpres."
+  },
+  {
+    "source_sent_id": ". RO-testnou.11.folia.xml BsE-corola-5546",
+    "prediction": "După revenirea democrației în România, László Tőkés a persistat în a-și crea o imagine de efigie a Revoluției și a intrat pe calea politicii, evident pentru a promova valorile libertății în țara natală."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3616",
+    "prediction": "Recunoaștem cu plăcere că pe data de 9 Mai îl petrecem într-un mod special ca ziua de independență a Țării noastre."
+  },
+  {
+    "source_sent_id": ". RO-testnou.7.folia.xml BsE-corola-3510",
+    "prediction": "Iarăși apar cei mici, îmbrăcați în verde!."
+  },
+  {
+    "source_sent_id": ". RO-testnou.25.folia.xml DCN-corola-5341",
+    "prediction": "Cel mai frecvent afectați de modificarea modului de taxare sunt muncitorii temporari din industria alimentară sau din sectorul agricol."
+  },
+  {
+    "source_sent_id": ". RO-testnou.26.folia.xml DCN-corola-6947",
+    "prediction": "Între 14 august, ora 19:00 și 15 august, ora 9:00, specialiștii în climă au emis o avertizare de nivel galben privind instabilitatea atmosferică."
+  }
+]
