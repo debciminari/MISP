@@ -60,7 +60,6 @@ def create_prompt(raw_text):
     Furnizați o parafrază a întregii propoziții, păstrând sensul original, înlocuind expresia idiomatică cu o reformulare, folosind sinonime și modificându-i structura. Fiți creativi.
     Prezentați parafraza după cum urmează, fără a adăuga comentarii:
     Parafraza este:
-    1. <parafrază>.
 
     ### Propoziție: {raw_text}.
 
@@ -139,14 +138,16 @@ print(f"Successfully saved {len(results)} predictions!")
 # POST-PROCESS: EXTRACT PARAPHRASE
 
 def extract_span(prediction):
-    pattern = r'(?<=1\.)\s*.*?\.|(?<=é\:\\n)\s*.*?\.'
-    patt_matching = re.search(pattern, prediction, re.DOTALL | re.IGNORECASE)
-    
-    if patt_matching:
-        extracted = patt_matching.group(0).strip()
-        return extracted
-    
-    return prediction
+    # Extract the first sentence after "Parafraza este"
+    para_pattern = r'Parafraza este\s*:\s*(?:\d+\.\s*)?(.*?\.)(?:\s|$)'
+    match_para = re.search(para_pattern, prediction, re.IGNORECASE | re.DOTALL)
+    if match_para:
+        sentence = match_para.group(1).strip()
+        return sentence
+    else:
+        # fallback: just take the first sentence in the text
+        sentences = re.split(r'\.(?:\s+|$)', prediction.strip())
+        return sentences[0].strip() if sentences else prediction.strip()
 
 print("\nExtracting text spans...")
 for result in results:
