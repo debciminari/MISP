@@ -1,6 +1,6 @@
 # MISP: Multilingual Idiomatic Sentence Paraphrasing
 
-MISP (Multilingual Idiomatic Sentence Paraphrasing) is a system designed to generate idiomatic paraphrases in three languages: Portuguese (PT), French (FR), and Romanian (RO).
+MISP (Multilingual Idiomatic Sentence Paraphrasing) is a system designed to generate idiomatic paraphrases in three languages: Portuguese (PT), French (FR), and Romanian (RO) on the one hand, and Georgian (KA) on the other.
 
 For Portuguese, a synthetic paraphrase dataset was automatically generated using the Apertus-8B-Instruct-2509 model, based on the Portuguese subset of the AStitchInLanguageModels dataset (Tayaar-Madabushi, 2021). Finally, Qwen3-4B-Instruct-2507 model was finetuned on this synthetic data.
 
