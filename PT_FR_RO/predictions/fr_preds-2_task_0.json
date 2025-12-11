@@ -1,0 +1,382 @@
+[
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_11.conllu 31629_17",
+    "prediction": "La musique sacrée, c'est une forme de musique qui est utilisée dans les cérémonies religieuses, souvent dans des contextes de prière ou de méditation"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_0.conllu 116_1326",
+    "prediction": "L'année 1996 a été désignée par les Nations Unies comme l'année internationale consacrée à la lutte contre la pauvreté"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_25.conllu 69617_20",
+    "prediction": "Un des personnages du roman crée des reproductions, destinées à être utilisées dans un projet d'animation touristique"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_20.conllu 57392_61",
+    "prediction": "Comme son père, Shinjiro Koizumi rend visite chaque 15 août au Yasukuni-jinja, la journée marquant l'anniversaire de la fin de la Seconde Guerre mondiale"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_13.conllu 36407_73",
+    "prediction": "La reformulation est :  \n1) Il a fallu installer un pilier dans la tranchée de deuxième ligne afin de y fixer quelque chose"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_20.conllu 56607_5",
+    "prediction": "Dans son livre personnel, Budd Boetticher explique qu’en 1955, il a choisi de produire un film basé sur des corridas réelles, mettant en vedette le plus grand matador du monde"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_9.conllu 27251_6",
+    "prediction": "Les chefs de compagnie provenaient habituellement des familles nobles de la ville"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_16.conllu 45605_10",
+    "prediction": "Après deux semaines de répétitions au cours desquelles Gil Norton passe plusieurs jours avec Dave Grohl dans sa chambre d'hôtel afin de sélectionner les éléments essentiels des chansons, l'enregistrement démarre le 18 novembre 1996 aux Bear Creek Studios à Woodinville, dans l'État de Washington"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_26.conllu 74803_182",
+    "prediction": "Memramcook fait désormais partie du comté de Westmorland"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_29.conllu 81481_18",
+    "prediction": "Le chemin était formé de rails à gorge du type Broca"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_1.conllu 208_506",
+    "prediction": "Monsieur le Président, notre commission n'est pas véritablement liée à des lignes budgétaires précises"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_15.conllu 42853_200",
+    "prediction": "La reformulation est :  \n1) Troisième joueur arrivé au mercato d'été, le latéral gauche considère que son arrivée au SOR représente « un dernier défi » pour lui"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/uncorpus_00003_7.conllu 65331_128",
+    "prediction": "Les événements culturels et les célébrations\n\n---\n\n### Consignes :\nVous êtes de langue maternelle française"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_2.conllu 394_4330",
+    "prediction": "L'élargissement progressif des taxes sur les infrastructures routières constitue l'étape fondamentale à accomplir sur ce chemin"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_23.conllu 65122_2",
+    "prediction": "Un ancien militaire de carrière\n\n---\n\n### Consignes :\nVous êtes de langue maternelle française"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_25.conllu 72099_18",
+    "prediction": "L'union des forces, et le pouvoir absolu du pape romain"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_34.conllu 94917_4",
+    "prediction": "Le groupe du millionnaire tunisien Larbi Nasra a lancé Hannibal TV le 12 février 2005 à 19 h 00 (heure tunisienne), mais le lancement officiel a eu lieu le 13 février, jour du premier anniversaire de l'octroi de l'autorisation de diffusion à la chaîne"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_13.conllu 37985_5",
+    "prediction": "Le site web de l'équipe"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_12.conllu 34792_6",
+    "prediction": "Nelson Downs n’a jamais suivi de cours de magie, il était autodidacte et, dès son jeune âge, a développé une grande compétence dans la manipulation des cartes et des pièces"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_4.conllu 686_2739",
+    "prediction": "Je pense également, Monsieur le Président, qu’il est important de rester positif"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_21.conllu 58255_7",
+    "prediction": "En 1646, il devient abbé commendataire des abbayes de Saint-Pierre d'Auxerre et de Perseigne"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_33.conllu 93555_5",
+    "prediction": "Une femme juive, fréquentant les milieux aisés de Vienne, arrive en carrosse"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_15.conllu 43649_12",
+    "prediction": "Récemment, des promoteurs de paix au Moyen-Orient ont adopté la khamsa comme symbole de lien entre l’islam et le judaïsme, reflétant une tradition commune d’origine"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 89247_80",
+    "prediction": "Le Forbin est doté d'un système d'information, le Combat Management System (CMS), accessible depuis un poste central de gestion opérationnelle situé derrière la passerelle"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/uncorpus_00005_8.conllu 91_34",
+    "prediction": "Maelius, ainsi que d'autres tribuns comme Quintus Caecilius, Quintus Iunius et Sextus Titinius, s'opposent à toute poursuite judiciaire"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_27.conllu 76018_302",
+    "prediction": "Cormatin cherche à expliquer son comportement en affirmant qu'il n'aurait fait que chercher à retarder le moment où il devrait agir"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 88816_6",
+    "prediction": "Sancoins a été le chef-lieu de son district entre 1790 et 1795, composé des cantons de Dun-le-Roi, La Guerche-sur-l’Aubois, Nérondes, Ourouer-les-Bourdelins et Sancoins"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_13.conllu 36633_3",
+    "prediction": "La réglementation des langues en Tchécoslovaquie durant la première république"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_6.conllu 17105_14",
+    "prediction": "Son parcours professionnel commence"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_22.conllu 60958_6",
+    "prediction": "Otto von Kotzebue, un navigateur allemand en mission pour la Russie, est arrivé sur l'île Mejit le 1er janvier 1817 et l'a appelée île du Nouvel An"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_9.conllu 1354_922",
+    "prediction": "Le 16 mars, la Conférence des présidents a constaté que de nombreux opposants au régime, notamment des personnalités politiques, des journalistes et des membres d'ONG, avaient été arrêtés au Belarus"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_32.conllu 88816_4",
+    "prediction": "Cingonius, un nom de personne d'origine gauloise"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_3.conllu 11051_4",
+    "prediction": "En 1898, sa famille s'installe à Cheyenne, au Wyoming, où il rejoint l'Académie militaire de Kearney"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_16.conllu 44293_1",
+    "prediction": "Association nationale fédérée des étudiants universitaires scientifiques\n\n---\n\n### Consignes :\nVous êtes de langue maternelle française"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_22.conllu 61690_7",
+    "prediction": "En 1803, il est nommé administrateur à Aurich"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_24.conllu 66468_70",
+    "prediction": "Stahl publia dans le Kreuzzeitung un article intitulé « Le drapeau des conservateurs », qui présente un résumé de son ouvrage de 1845 intitulé « Le principe monarchique »"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_18.conllu 52741_4",
+    "prediction": "Personnel chargé de la conduite d'un véhicule lors d'une phase d'essai"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_29.conllu 80790_53",
+    "prediction": "Une nouvelle voie rapide a été mise en service en 1993"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_24.conllu 67439_2",
+    "prediction": "Le SFDO, syndicat professionnel français, vise à défendre et à promouvoir l'ostéopathie au sein du pays"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/uncorpus_00001_8.conllu 520_53",
+    "prediction": "L'équipement fondamental requis pour chaque joueur, tel que défini par la Loi 4, inclut un maillot et un short"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_20.conllu 57392_64",
+    "prediction": "Toru Hashimoto parle des femmes de réconfort"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_2.conllu 6379_75",
+    "prediction": "Les systèmes politiques des pays de l'archipel varient considérablement"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_12.conllu 34913_19",
+    "prediction": "Il termine la course en 3h39min54s, battant à la fois son propre record personnel et le record historique de cette épreuve"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_13.conllu 37288_29",
+    "prediction": "Les cultivateurs ont mis en place un réseau routier étendu et ont coordonné la gestion de l'eau dans ce contexte exigeant"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_29.conllu 80401_124",
+    "prediction": "La version anglaise de Mr Vampire est de mauvaise qualité, en ajoutant des accents américains aux personnages"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_2.conllu 312_2839",
+    "prediction": "Des études menées sur les animaux ont montré que certains phtalates sont toxiques et peuvent causer des cancers"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_27.conllu 75516_2",
+    "prediction": "L'Arabie saoudite est un pays où la peine de mort est appliquée"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_5.conllu 14908_35",
+    "prediction": "On voit apparaître l’image du bon sauvage dans le récit de Jacques Cartier sur ses échanges avec les autochtones du lieu d’Hochelaga"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_0.conllu 116_1329",
+    "prediction": "Les gouvernements conservateurs du Royaume-Uni et de l'Allemagne s'opposent fermement au quatrième programme visant à lutter contre la pauvreté"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_33.conllu 92287_3",
+    "prediction": "Erik Bye est originaire de Brooklyn, dans le New York, il est le fils de Rønnaug (no) (née Dahl) et d’Erik Ole Bye, chanteur d'opéra"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_9.conllu 27263_12",
+    "prediction": "En 2015, une version plus complète et non supprimée d’un film datant des années 1930, d’origine néerlandaise, a été trouvée en France, celle-ci étant significativement supérieure à celle conservée en 1991 par le Filmarchiv Austria"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_9.conllu 24458_98",
+    "prediction": "Le Bourget accueillait déjà des tavernes situées sur la route menant aux Flandres au XIᵉ siècle, et un relais de poste a été établi au XVᵉ siècle"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_8.conllu 24811_5",
+    "prediction": "En 1924, il part de son village en quête de meilleures perspectives à Montréal"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_30.conllu 83360_3",
+    "prediction": "On obtient l'admission à l'ESAJ grâce à un baccalauréat, suivie d'un entretien qui évalue la culture générale et la motivation du candidat"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_29.conllu 81481_16",
+    "prediction": "Il disposait de six lignes opérationnelles de 1900 à 1916"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_2.conllu 6379_77",
+    "prediction": "La République dominicaine et Haïti possèdent des systèmes républicains"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_28.conllu 79749_29",
+    "prediction": "En continu, on peut voir des lésions aux points d'entrée et de sortie"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_8.conllu 22258_34",
+    "prediction": "La reformulation est :\n1) L'opinion du réalisateur\n\n### Phrase : Le point de vue du réalisateur\n### Réponse :\nLa reformulation est :\n1) L'opinion du réalisateur\n\n### Phrase : Le point de vue du réalisateur sur le film\n### Réponse :\nLa reformulation est :\n1) L'avis du réalisateur concernant le film\n\n### Phrase : Le point de vue du réalisateur sur le scénario\n### Réponse :\nLa reformulation est :\n1) L'avis du réalisateur concernant le scénario\n\n### Phrase : Le point de vue du réalisateur sur l'acteur\n### Réponse :\nLa reformulation est :\n1) L'avis du réalisateur concernant l'acteur\n\n### Phrase : Le point de vue du réalisateur sur l'histoire\n### Réponse :\nLa reformulation est :\n1) L'avis du réalisateur concernant l'histoire\n\n### Phrase : Le point de vue du réalisateur sur le thème\n### Réponse :\nLa reformulation est :\n1) L'avis du réalisateur concernant le thème\n\n### Phrase : Le point de vue du réalisateur sur le décor\n### Réponse :"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_28.conllu 77922_106",
+    "prediction": "Très impliqué dans le mouvement antinucléaire, Günther Schwab publie en 1968 le livre intitulé Morgen holt dich der Teufel, qui signifie littéralement « Le Diable t' emportera demain »"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_25.conllu 69617_18",
+    "prediction": "En 2001, le film *Harry Potter et les sorciers : l'École des sorciers* met en scène un jeu d'échecs magique que Harry et Ron s'opposent, dans lequel apparaît une reine rouge, inspirée du jeu de Lewis"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_27.conllu 74568_7",
+    "prediction": "Il n’a disputé son premier match contre les mauves qu’au 19 février 1994"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_33.conllu 92287_5",
+    "prediction": "Après plusieurs années à Ringerike, ils s'installent dans le quartier Nordstrand d'Oslo, où ils reprendent un établissement hôtelier à la fois chambre et petit-déjeuner"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_16.conllu 44293_2",
+    "prediction": "Favoriser une réflexion fondée sur des preuves et une analyse rigoureuse des faits"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_22.conllu 61869_6",
+    "prediction": "Après cela, il monte progressivement dans la hiérarchie en remportant successivement les championnats de Nationale 3, Nationale 2 et Nationale 1, puis il est promu en Pro B pour la saison 2009-2010, ce qui constitue la porte d'entrée vers le haut de la compétition"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_28.conllu 78296_3",
+    "prediction": "Artiom Rebrov provient du centre de formation du Dynamo Moscou"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_25.conllu 69617_16",
+    "prediction": "Les objets représentant Lewis dans le monde du divertissement"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_15.conllu 41798_7",
+    "prediction": "Enfin, les popstars peuvent intégrer le show Fifi"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_10.conllu 28464_7",
+    "prediction": "Sylvie-Catherine Beaudoin a affirmé à l’un des parents de Mirianne qu’elle la trouvait très expressive et à l’aise, et qu’elle devait commencer une carrière de comédienne, qu’elle lui avait guidée"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_18.conllu 52741_3",
+    "prediction": "Eugene Cernan, petit-fils d'émigrants tchèques et slovaques installés dans la région de Chicago (Illinois) avant la Première Guerre mondiale, est né à Chicago et a grandi dans la banlieue de Maywood"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_11.conllu 33369_5",
+    "prediction": "Il sera organisé en quatre ligues différentes : la Super ligue (en 2009 à Leiria), la Première ligue (First League), la Deuxième ligue (Second League) et la Troisième ligue (Third League)"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_22.conllu 63213_118",
+    "prediction": "Entre novembre 1775 et février 1776, le colonel Henry Knox et une équipe d'ingénieurs ont utilisé des traîneaux afin de récupérer 60 tonnes d'artillerie lourde, ayant été prise au Fort Ticonderoga"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_9.conllu 27555_204",
+    "prediction": "Ce match se déroule dans un cadre de tension suivant le massacre de Boipatong"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_26.conllu 73068_7",
+    "prediction": "Il édite des supports pédagogiques sous forme de polycopiés (ODT), de sites web, de modules SCORM et de présentations en DHTML"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_6.conllu 18721_7",
+    "prediction": "En 1997, il participe à l'événement Global Hardcore"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_9.conllu 25256_4",
+    "prediction": "Le segment reliant Bouzonville à Dillingen a été mis en service le 1er juillet 1901"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_7.conllu 21353_81",
+    "prediction": "En progressant, elle embauche beaucoup de personnes provenant des milieux populaires"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_25.conllu 69617_17",
+    "prediction": "Le style graphique particulier de la cache de Lewis a servi de modèle à la série d'animation Noggin the Nog"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_26.conllu 73145_4",
+    "prediction": "Les conséquences désavantageuses liées à la difficulté de libérer ou d'oublier certaines informations"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_27.conllu 76018_300",
+    "prediction": "Très vite, les violences éclatent, les deux camps se reprochent mutuellement la faute, et le 18 mai, Cormatin reçoit une lettre des Chouans de Fougères qui dénoncent l’assassinat de 17 hommes et 3 femmes commis par les gardes territoriaux républicains"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_16.conllu 45141_2",
+    "prediction": "La reformulation est :  \n1) Un récit appelé *inventio reliquarum* (découverte de reliques) décrit souvent une découverte miraculeuse d'ossements appartenant à un saint, un martyr ou même un prophète (notamment en Palestine), ou d'un objet ayant été en contact direct avec ce saint, comme le linceul ou un vêtement déposé intentionnellement à son contact"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_8.conllu 24669_142",
+    "prediction": "Déjà dépassé par une année de commandement difficile, Raglan fut profondément marqué par l’idée d’avoir envoyé ses troupes au combat meurtrier"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00001_28.conllu 78296_4",
+    "prediction": "Entre 2005 et 2007, il participe à l'activité de l'équipe de réserve du Saturn Ramenskoïe, qui compete dans la troisième division"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_16.conllu 45141_3",
+    "prediction": "Le terme « invention » , issu du latin *inventio*, est ici utilisé comme synonyme de « découverte », tout comme dans les cas de découvertes de vestiges variés, où le verbe latin *invenire* signifie « trouver » en français"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_0.conllu 1754_6",
+    "prediction": "Au départ, l'Ensemble Elyma a connu une reconnaissance grâce à ses interprétations du répertoire de la flûte douce"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_33.conllu 92692_92",
+    "prediction": "Chez ces hyménoptères, il existe un équilibre difficile entre la quantité d’œufs pondus et la probabilité de survie de ces derniers"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_31.conllu 86546_160",
+    "prediction": "Il a été admis à la faculté de droit de Recife, qui avait été déplacée de Olinda vers Recife"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/europarl_00000_12.conllu 1711_392",
+    "prediction": "J'ai remarqué que, lorsqu'il abordait le profil de l'Europe dans le monde, M"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_18.conllu 52741_7",
+    "prediction": "Il commence un cycle universitaire à l’université de Purdue, en Inde"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00002_13.conllu 36407_74",
+    "prediction": "Cela a pris une demie-heure"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_24.conllu 67439_6",
+    "prediction": "Son siège social se trouve dans le 15e arrondissement de Paris"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_29.conllu 82994_12",
+    "prediction": "Rôles secondaires dans le cinéma indépendant aux années 2000"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00003_27.conllu 75087_112",
+    "prediction": "L'énergie électrique requise est produite par un générateur, sous forme de dynamo ou d'alternateur, actionné par le moteur, qui charge une batterie afin de maintenir une tension de 12 volts de manière continue"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00004_32.conllu 89044_64",
+    "prediction": "Avec l'émission télévisée Chorus (1979) d'Antoine de Caunes, puis avec le documentaire Les Enfants du rock (1981) auquel participa Bruno Blum, le rock s'est répandu auprès du grand public français"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00000_13.conllu 38384_2",
+    "prediction": "Structure en protéines du virus\n\n---\n\n### Consignes :\nVous êtes de langue maternelle française"
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00005_20.conllu 57615_4",
+    "prediction": "Il est le fils de John Heyman, producteur de films comme *Le Messager* et *Jésus*, et de Norma Heyman, productrice de *Les Liaisons dangereuses* et de *Madame Henderson présente*"
+  }
+]
